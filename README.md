@@ -18,4 +18,3 @@ Usage
 * Analyze it with SonarQube using Apache Maven:
 
         mvn sonar:sonar
-
